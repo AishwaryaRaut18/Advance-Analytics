@@ -1,2 +1,2 @@
 # Advance-Analytics
-Advance Analytics practice and assignments
+Basic Advance Analytics practice and assignments
